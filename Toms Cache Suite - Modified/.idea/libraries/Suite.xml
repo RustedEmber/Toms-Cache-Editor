@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Suite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Suite/forms_rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Suite/TomsSuite.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Suite/T3D.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Suite/l2fprod-common-sheet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
